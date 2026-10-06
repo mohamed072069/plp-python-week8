@@ -1,0 +1,54 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. Tools
+
+Tool 1: To-Do List
+The To-Do List allows the user to add tasks, view all tasks, and manage a simple list of tasks.
+
+Tool 2: Simple Calculator
+The Simple Calculator allows the user to perform addition, subtraction, multiplication, and division.
+
+Tool 3: Number Checker
+The Number Checker asks the user for a number and tells them whether the number is positive, negative, or zero.
+
+2. Menu Text
+
+========================================
+       PERSONAL MINI-TOOLKIT
+========================================
+
+Welcome! Choose a tool:
+
+1. To-Do List
+2. Simple Calculator
+3. Number Checker
+4. Quit
+
+Enter your choice:
+
+3. Concepts Used
+
+To-Do List:
+- Lists
+- Loops
+- User input
+- Conditionals
+- F-strings
+
+Simple Calculator:
+- Variables
+- User input
+- Conditionals
+- F-strings
+
+Number Checker:
+- Variables
+- User input
+- Conditionals
+- F-strings
+
+Main Menu:
+- While loop
+- If / elif / else
+- User input
+- Print output
